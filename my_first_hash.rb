@@ -1,10 +1,10 @@
-def my_hash(e)
-  misc = {
+
+  my_hash = {
     "my_dog" => "siyo", 
     "my_name" => "norio", 
     "my_phone" => "iphone"}  
   
-end
+
 
 
 def shipping_manifest
