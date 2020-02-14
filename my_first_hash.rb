@@ -1,5 +1,5 @@
 def my_hash(e)
-  misc = {"my_dog" => "siyo", "my_name" => "norio", "my_phone" => "iphone"}  
+  misc = {"my_dog" => "siyo", "my_name" => "norio", "my_phone" => "iphone",}  
   
 end
 
